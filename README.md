@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasankazem22&label=Profile%20views&color=0e75b6&style=flat" alt="hasankazem22" /> </p>
 
-- 🔭 I’m currently working on **JavaScript & React Project**
+- 🔭 I’m currently working on **Python & Django Project**
 
-- 🌱 I’m currently learning **PHP & Laravel Framework**
+- 🌱 I’m currently learning **Java & Spring Boot**
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, Python, Django**
 
