@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Hasibul Hasan</h1>
 <h3 align="center">Software Developer | Java | Spring Boot | SQL</h3>
-<img align="right" alt="Coding" width="400" src="file:///home/hasibul/Downloads/developer.jpg">
-
+<img align="right" alt="Coding" width="400" src="![developer](https://github.com/HasanKazem22/HasanKazem22/assets/98735827/b63a564c-a178-4960-8e09-b34f29373449)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasankazem22&label=Profile%20views&color=0e75b6&style=flat" alt="hasankazem22" /> </p>
 
