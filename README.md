@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **hasan.edu22@gmail.com**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasankazem22" alt="hasankazem22" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/HasanKazem22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hasankazem22" height="30" width="40" /></a>
@@ -27,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasankazem22&show_icons=true&locale=en&layout=compact" alt="hasankazem22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasankazem22&show_icons=true&locale=en" alt="hasankazem22" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasankazem22&" alt="hasankazem22" /></p>
