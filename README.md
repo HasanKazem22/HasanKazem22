@@ -1,6 +1,5 @@
-<!-- Typing SCG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FDE100&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Hasibul+Hasan" align="middle" alt="Hey,  Welcome to my Profile! animated typed out" width="100%"/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<h2>Hi, I'm Hasibul Hasan</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Gifs -->
 <img src="https://github.com/fmahadyBD/fmahadyBD/blob/main/Data/Assets/flameo1.gif" width="16px" align="left"/>
