@@ -12,18 +12,7 @@
 </h3>
 <!-- Viewer -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=HasanKazem22&label=Profile%20views&color=0e75b6&style=flat" alt="HasanKazem22" /> <img height="20" src="https://img.shields.io/github/followers/HasanKazem22?label=follow&logo=github&style=flat" /></p>
- 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- My Projectes cards -->
-<details open="">
-<summary>  
-  <strong>My Projects : </strong>
-</summary>
-<br/>
-<p align="left">
- <a href="https://github.com/fmahadyBD/Resume"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=Resume&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a><a href="https://github.com/fmahadyBD/DM_Sys"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=DM_Sys&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a><a href="https://github.com/fmahadyBD/Browser_Cache_Clear"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=Browser_Cache_Clear&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a><a href="https://github.com/fmahadyBD/Full-Train-project-with-c"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=Full-Train-project-with-c&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a><a href="https://github.com/fmahadyBD/CT-Management-System"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fmahadyBD&repo=CT-Management-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-</p>
-</details>
+
 <br/>
 <!-- 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 -->
 <details open="">
@@ -42,26 +31,31 @@
 </details>
 <br/>
 
-<!--  My Skill -->
-### My Skill:
-[![My Skills](https://skillicons.dev/icons?i=js,python,django,java,springboot,c,cpp,html,css,blender,mysql)](https://skillicons.dev)
+<div> <a href="https://twitter.com/HasanKazem22" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/HasanKazem22" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/HasanKazem22" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:hasan.edu22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/HasanKazem22" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="HasanKazem22" height="30" width="40" /></a><a href="https://linkedin.com/in/HasanKazem22" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="HasanKazem22" height="30" width="40" /></a><a href="https://fb.com/HasanKazem22" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="HasanKazem22" height="30" width="40" /></a><a href="https://www.hackerrank.com/HasanKazem22" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="HasanKazem22" height="30" width="40" /></a><a href="https://www.leetcode.com/HasanKazem22" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="HasanKazem22" height="30" width="40" /></a><a href="https://discord.gg/HasanKazem22" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="HasanKazem22" height="30" width="40" /></a></p>
 
-
-
- ### Learning: 
-<!--  Learning -->
-[![My Skills](https://skillicons.dev/icons?i=flutter,laravel,php,py,tailwind)](https://skillicons.dev)
-<!--  Plan to learn -->
-### Future Plan:
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,powershell)](https://skillicons.dev)
-<!--  Social Media -->
-### Social Media:
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow,twitter)](https://skillicons.dev)
-<!--  Tools & OS -->
-### My Tools & OS
-[![My Skills](https://skillicons.dev/icons?i=figma,blender,eclipse,git,github,gitlab,linux,ps,vscode,)](https://skillicons.dev)
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe-xd.svg" alt="Adobe-Xd" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
 <!--  Visitor count -->
 <p align="center">
