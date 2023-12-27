@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hasibul Hasan</h1>
-<!-- Gifs -->
-<img src="https://github.com/hasankazem22/blob/main/Data/Assets/flameo1.gif" width="16px" align="left"/>
-<img src="https://github.com/hasankazem22/blob/main/Data/Assets/flameo1.gif" width="16px" align="right"/>
+<h1 align="center"> Hi 👋, I'm Hasibul Hasan </h1>
+<h3 align="center"> Software Developer | Java | Spring Boot | SQL </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- More about me -->
-<h3> 
-  <p>Software Developer | Java | Spring Boot | SQL</p>
-</h3>
 <!-- Viewer -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=HasanKazem22&label=Profile%20views&color=0e75b6&style=flat" alt="HasanKazem22" /> <img height="20" src="https://img.shields.io/github/followers/HasanKazem22?label=follow&logo=github&style=flat" /></p>
 
