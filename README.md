@@ -1,16 +1,17 @@
 <!-- Typing SCG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FDE100&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Hasibul+Hasan+Fahim!" align="middle" alt="Hey,  Welcome to my Profile! animated typed out" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FDE100&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Hasibul+Hasan" align="middle" alt="Hey,  Welcome to my Profile! animated typed out" width="100%"/>
 
 <!-- Gifs -->
 <img src="https://github.com/fmahadyBD/fmahadyBD/blob/main/Data/Assets/flameo1.gif" width="16px" align="left"/>
 <img src="https://github.com/fmahadyBD/fmahadyBD/blob/main/Data/Assets/flameo1.gif" width="16px" align="right"/>
 <img src="https://github.com/fmahadyBD/fmahadyBD/blob/main/Data/Assets/Line.gif" width="100%"/>
+
 <!-- More about me -->
 <h3> 
-  <p> I am a Web developer and 2d Animator. I love to write real life based story. I study in computer science and engineering. </p>
+  <p>Software Developer | Java | Spring Boot | SQL</p>
 </h3>
 <!-- Viewer -->
-<p align="left"><img src="https://komarev.com/ghpvc/?username=fmahadybd&label=Profile%20views&color=0e75b6&style=flat" alt="fmahadybd" /> <img height="20" src="https://img.shields.io/github/followers/fmahadyBD?label=follow&logo=github&style=flat" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=HasanKazem22&label=Profile%20views&color=0e75b6&style=flat" alt="HasanKazem22" /> <img height="20" src="https://img.shields.io/github/followers/HasanKazem22?label=follow&logo=github&style=flat" /></p>
  
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- My Projectes cards -->
