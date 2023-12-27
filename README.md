@@ -41,21 +41,16 @@
   </div>
 </details>
 <br/>
-<!-- Graphs -->
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=fmahadyBD&theme=react-dark&hide_border=true&area=true)
-
 
 <!--  My Skill -->
-
 ### My Skill:
-
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,html,css,blender,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,django,java,springboot,c,cpp,html,css,blender,mysql)](https://skillicons.dev)
 
 
 
  ### Learning: 
 <!--  Learning -->
-[![My Skills](https://skillicons.dev/icons?i=js,flutter,laravel,php,py,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,laravel,php,py,tailwind)](https://skillicons.dev)
 <!--  Plan to learn -->
 ### Future Plan:
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,powershell)](https://skillicons.dev)
