@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hasibul Hasan</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- Gifs -->
-<img src="https://github.com/fmahadyBD/fmahadyBD/blob/main/Data/Assets/flameo1.gif" width="16px" align="left"/>
-<img src="https://github.com/fmahadyBD/fmahadyBD/blob/main/Data/Assets/flameo1.gif" width="16px" align="right"/>
-<img src="https://github.com/fmahadyBD/fmahadyBD/blob/main/Data/Assets/Line.gif" width="100%"/>
+<img src="https://github.com/hasankazem22/blob/main/Data/Assets/flameo1.gif" width="16px" align="left"/>
+<img src="https://github.com/hasankazem22/blob/main/Data/Assets/flameo1.gif" width="16px" align="right"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- More about me -->
 <h3> 
