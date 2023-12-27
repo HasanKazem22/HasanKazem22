@@ -5,21 +5,13 @@
 <!-- Viewer -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=HasanKazem22&label=Profile%20views&color=0e75b6&style=flat" alt="HasanKazem22" /> <img height="20" src="https://img.shields.io/github/followers/HasanKazem22?label=follow&logo=github&style=flat" /></p>
 
-<br/>
-<!-- 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 -->
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
+
 <div>
   <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fmahadyBD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api username=fmahadyBD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fmahadyBD&layout=compact&langs_count=8&theme=algolia"/>
-  
   <p>
-  </div>
+</div>
 </details>
 <br/>
 
