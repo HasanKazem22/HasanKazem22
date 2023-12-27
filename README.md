@@ -2,18 +2,12 @@
 <h3 align="center"> Software Developer | Java | Spring Boot | SQL </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Viewer -->
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=HasanKazem22&label=Profile%20views&color=0e75b6&style=flat" alt="HasanKazem22" /> <img height="20" src="https://img.shields.io/github/followers/HasanKazem22?label=follow&logo=github&style=flat" /></p>
 
 
-<div>
-  <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api username=fmahadyBD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fmahadyBD&layout=compact&langs_count=8&theme=algolia"/>
-  <p>
-</div>
-</details>
-<br/>
+<h3 align="left">Stars</h3>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=HasanKazem22&show_icons=true&locale=en&theme=radical" alt="HasanKazem22" /></p>
 
 <div> <a href="https://twitter.com/HasanKazem22" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/HasanKazem22" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
