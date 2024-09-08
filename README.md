@@ -1,11 +1,7 @@
 ![Github Banner](assets/github-banner.jpg)
 
-<p align="center">
-  <strong># Hasibul Hasan</strong>
-</p>
-<p align="center">
-  <strong>### Software Engineer | Java | Spring Boot | MS SQL</strong>
-</p>
+<h1 align="center">Hasibul Hasan</h1>
+<h3 align="center">Software Engineer | Java | Spring Boot | MS SQL</h3>
 
 I'm a Software Engineer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects.
 
